@@ -5,7 +5,7 @@
 All our experimental data including visualized and evaluated data are placed here(https://pan.baidu.com/s/1ZKjDPveYnGUTk__5q08Ojg?pwd=1234). 
 Attack Examples:
 
-<img src="README/image-20240728160242639.png" alt="image-20240728160242639" style="zoom:80%;" />
+<img src="image-20240728160242639.png" alt="image-20240728160242639" style="zoom:80%;" />
 
 ## Requirements
 
