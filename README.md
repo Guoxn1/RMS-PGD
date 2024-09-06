@@ -11,7 +11,7 @@ Examples:
 
 <img src="image-20240728160242639.png" alt="image-20240728160242639" style="zoom:80%;" />
 
-![image-20240906213932211](image-20240906213932211.png)
+![image-20240906215202316](image-20240906215202316.png)
 
 ## Requirements
 
