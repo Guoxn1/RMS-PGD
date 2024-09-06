@@ -2,7 +2,7 @@
 
 ## Code
 
-This code can help understand the ideas of the paper, and running the code can verify some conclusions mentioned in the paper. We will present the complete code later.
+This code can help understand the ideas of the paper, and running the code can verify some conclusions mentioned in the paper. We will present the unabridged code later.
 
 ## Original experimental data
 
